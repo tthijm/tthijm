@@ -2,6 +2,8 @@
 
 My name is Thijmen and I am a Computer Science student from the Netherlands.
 
+My main interest lies in software engineering and contributing to open-source projects.
+
 ## I code with
 
 <div align="left">
