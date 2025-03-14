@@ -1,4 +1,4 @@
-## Hello 👋
+## About me
 
 My name is Thijmen and I am a Computer Science student from the Netherlands.
 
