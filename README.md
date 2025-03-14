@@ -4,7 +4,7 @@ My name is Thijmen and I am a Computer Science student from the Netherlands.
 
 My main interest lies in software engineering and contributing to open-source projects.
 
-## I code with
+## Proficiencies
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/>
